@@ -1,13 +1,12 @@
 {
-  "name": "node-mongo-app",
+  "name": "hello-openshift",
   "version": "1.0.0",
-  "description": "A simple Node.js app with MongoDB for OpenShift",
+  "description": "Simple Hello World app for OpenShift",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "mongoose": "^6.9.1"
+    "express": "^4.18.2"
   }
 }
